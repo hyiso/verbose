@@ -1,6 +1,6 @@
 name: verbose
 description: A tiny Dart debugging utility package for verbosely logging message.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/hyiso/verbose
 
 environment:
